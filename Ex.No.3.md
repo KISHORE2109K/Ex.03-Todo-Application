@@ -39,8 +39,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 ### html
-```
-html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -69,8 +68,7 @@ html
 
 ```
 ### css
-```
-css
+```css
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
 :root {
@@ -207,8 +205,7 @@ h1 {
 
 ```
 ### js
-```
-js
+```js
 document.addEventListener('DOMContentLoaded', () => {
     const taskInput = document.getElementById('task-input');
     const addButton = document.getElementById('add-button');
